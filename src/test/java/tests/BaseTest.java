@@ -50,7 +50,7 @@ BaseTest {
 
         String url = properties.baseUrl+"/users";
 
-        System.out.println("PostApiURL  :  " + url);
+        System.out.println("PostApiURL :  " + url);
 
         TestApiResource testApiResource = new TestApiResource(properties);
 
